@@ -2,6 +2,8 @@
 
 This project now includes Web Development Internship Task 3 features on Abhinav's personal portfolio website.
 
+Live Demo - https://abhi941331-alt.github.io/MainCraft-Task-3/
+
 ## Included Requirements
 
 - Hero section based on the PDF starter code
